@@ -17,10 +17,4 @@ Console Connect - A Secure Chat Server on powershell
 > or error conditions. It's meant to provide a basic understanding of
 > how to create a chat application using PowerShell.
 
-**In the client script, replace `"xxx.xxx.xx.xx"` with the IP address and Port of the computer running the server script.**
-
-*With both scripts running, you can now start chatting between the two computers by entering messages in the client's PowerShell console. The server will display the received messages and prompt for a reply.*
-
-> Note that this is a simple example and doesn't handle multiple clients
-> or error conditions. It's meant to provide a basic understanding of
-> how to create a chat application using PowerShell.
+ 
